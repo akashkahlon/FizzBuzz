@@ -34,7 +34,3 @@ def run(initial,final)
     not_divisible(i) ? next : nil
   end
 end
-
-run(1,25)
-
-
